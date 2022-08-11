@@ -1,3 +1,5 @@
+# If my modules weren't versioned, all my customers would get infra changes at the same time. How do I deal with that?
+
 # 1.0.83 has some changes that I don't want in Prod until I've thoroughly tested them in Dev
 module "dev1" {
   source = "git::git@github.com:stopthatastronaut/myfancymodule?ref=v1.0.83"
