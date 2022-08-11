@@ -10,7 +10,7 @@ module "dev1" {
   ecs_create_services_tasks = true
 }
 
-# Customer1 is not ready for the changes I introduced in 0.0.82, never mind those I made in 1.0.83
+# Customer1 is not ready for the changes I introduced in 1.0.82, never mind those I made in 1.0.83
 module "Customer1" {
   source = "git::git@github.com:stopthatastronaut/myfancymodule?ref=v1.0.81"
 
