@@ -1,0 +1,17 @@
+
+
+Well hello and welcome to this, my new YouTube Channel.
+
+Let me tell you a little about myself. I'm, Jason. I'm known as CloudyOpsPoet on Twitter, for reasons which will become clear as time goes on. 
+
+I'm a software guy with 20-something years in the industry, and I've played a lot of different roles from Web Developer to Head of Infrastructure and quite a lot of everything else in between. 
+
+I do talks and presentations occasionally, and I have always had a bit of a thing for sharing knowledge and trying to spread ideas around, whether they're good or bad, so this is what the channel will be about. I've worked at a lot of different companies and seem a lot of approaches to software delivery. I have OPINIONS. They may be right, they may be wrong, but they are opinions and I WILL share them.
+
+Sometimes I'll upload a straight version of a talk I've delivered. Other times I might go on an extended rant about something that I think might possibly be important. Other times I'll share something cool I've been doing lately. Maybe I'll even fire up Zoom and have a chat with some other crusty old industry veterans and see what they've got to share. 
+
+I might even record a video when there's NOT a 3D printer running in the same room
+
+Anyway, glad to have you here. If you like this idea, hit the old subscribe button and we'll catch up with the first video, which shuld be the Terraform Antipatterns talk I delievered recently at Melbourne Infracoders. 
+
+Until then, may all your typos be harmless, and may all your deploys flow like fine wine.
